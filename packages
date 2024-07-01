@@ -1,3 +1,4 @@
+sudo bash
 apt -y update    #update Linux system's package
 apt -y upgrade    #upgrade Linux system's package
 
