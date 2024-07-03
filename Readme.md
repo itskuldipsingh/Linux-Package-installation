@@ -1,3 +1,4 @@
+'''shell
 apt -y update    #update Linux system's package
 apt -y upgrade    #upgrade Linux system's package
 
@@ -30,3 +31,4 @@ apt -y install ./google-chrome*.deb
 
 apt -y update    #update Linux system's package
 apt -y upgrade    #upgrade Linux system's package
+'''
