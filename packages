@@ -1,4 +1,3 @@
-sudo bash
 apt -y update    #update Linux system's package
 apt -y upgrade    #upgrade Linux system's package
 
@@ -27,7 +26,7 @@ snap install telegram-desktop       #messaging app
 #install chrome browser by downloading .deb file
 apt-get install libxss1 libappindicator1 libindicator7
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-apt install ./google-chrome*.deb
+apt -y install ./google-chrome*.deb
 
 apt -y update    #update Linux system's package
 apt -y upgrade    #upgrade Linux system's package
