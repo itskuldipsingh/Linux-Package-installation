@@ -1,0 +1,23 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+pre {
+  background-color: #f7f7f7;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.copy-code-btn {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.copy-code-btn:hover {
+  background-color: #3e8e41;
+}
